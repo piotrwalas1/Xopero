@@ -1,7 +1,7 @@
-# Xopero
+# Xopero -projekt własny
 
-<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan - projekt własny</a></li>
- <ul>
+<li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
+
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-blad1.pdf">Xopero-znaleziony błąd </a></li>
 <li><a href="https://youtu.be/EP9xIpe0NUM">Xopero-znaleziony błąd -film</a></li>
   <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-lista%20kontrolna%20GUI.pdf">Xopero-Testowanie eksploracyjne- 
@@ -16,4 +16,4 @@
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id5.pdf">Xopero-przykładowy przypadek testowy</a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id6.pdf">Xopero-przykładowy przypadek testowy </a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/raport%20Xopero.pdf">Xopero raport z testów </a></li>
- </ul>
+
