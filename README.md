@@ -1,4 +1,8 @@
 # Xopero -projekt własny
+# 🛡️ Testy Manualne - Platforma Backupowa Xopero.com
+
+## 📖 Opis Projektu
+Projekt skupia się na weryfikacji jakości i niezawodności strony **www.xopero.com**, oferującej zaawansowane rozwiązania do backupu i odzyskiwania danych po awarii (Disaster Recovery). Testy zostały zaprojektowane tak, aby sprawdzić ścieżki zakupowe, rejestrację użytkowników oraz dostępność kluczowych informacji o produktach.
 
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-Testplan1.pdf">Xopero-Test Plan</a></li>
 
@@ -17,3 +21,7 @@
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/Xopero-id6.pdf">Xopero-przykładowy przypadek testowy </a></li>
 <li><a href="https://github.com/piotrwalas1/PORTFOLIO/blob/main/raport%20Xopero.pdf">Xopero raport z testów </a></li>
 
+## 🛠️ Metodyka Testowa
+W projekcie zastosowano standardowe techniki projektowania przypadków testowych:
+* **Exploratory Testing**
+*  **Checklisty**
