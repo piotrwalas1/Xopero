@@ -32,6 +32,7 @@ public class Acc3Logowanie2Test {
                 driver.switchTo().window(window);
             }
         }
+        Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id='loginProtect']")).sendKeys("piotrinteria.pl");
 driver.findElement(By.id("submitBtn")).click();
 Thread.sleep(1500);

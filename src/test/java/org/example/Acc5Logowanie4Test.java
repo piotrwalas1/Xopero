@@ -32,8 +32,9 @@ public class Acc5Logowanie4Test {
                 driver.switchTo().window(window);
             }
         }
+        Thread.sleep(1000);
         driver.findElement(By.id("password")).sendKeys("Ladnedlugiehaslo1!");
-        driver.findElement(By.id("submitBtn")).click();
-        Thread.sleep(1500);
+       driver.findElement(By.id("submitBtn")).click();
+       Thread.sleep(1500);
         driver.quit();
 }}

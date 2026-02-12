@@ -34,6 +34,7 @@ public class Acc2Logowanie1Test {
                 driver.switchTo().window(window);
             }
         }
+        Thread.sleep(1000);
         driver.findElement(By.xpath("//*[@id='loginProtect']")).sendKeys("piotr@interia.pl");
 driver.findElement(By.xpath("//*[@id='password']")).sendKeys("Ladnedlugiehaslo1!");
         Actions actions = new Actions(driver);

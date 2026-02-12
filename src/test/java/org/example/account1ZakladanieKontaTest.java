@@ -34,6 +34,7 @@ public class account1ZakladanieKontaTest {
                 driver.switchTo().window(window);
             }
         }
+        Thread.sleep(1000);
         driver.findElement(By.xpath("/html/body/div[2]/div/div/div/form[1]/p/a")).click();
         driver.findElement(By.xpath("//*[@id='email1']")).sendKeys("mail@interia.pl");
         Thread.sleep(1500);
